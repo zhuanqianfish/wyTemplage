@@ -1,0 +1,2 @@
+# wyTemplage
+独立的thinkphp模板引擎，方便其他项目直接使用thinkphp模板
